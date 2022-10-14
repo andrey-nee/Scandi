@@ -1,6 +1,3 @@
 # Scandi
 
-- Простой лэндинг [посмотрите сами](https://andrey-nee.github.io/Scandi)
-- Адаптивная верстка
-
-<i>Макет разработан [HTML Academy](https://htmlacademy.ru/study)</i>
+Вёрстка учебного макета Sedona в рамках базового интенсивного курса <i>[HTML Academy](https://htmlacademy.ru/study)</i>. Резиновая вёрстка, HTML5, CSS3.
