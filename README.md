@@ -1,3 +1,4 @@
-# Scandi
+# Учебный проект "Scandi"
 
-Вёрстка учебного макета Sedona в рамках базового интенсивного курса <i>[HTML Academy](https://htmlacademy.ru/study)</i>. Резиновая вёрстка, HTML5, CSS3.
+Вёрстка учебного макета Scandi в рамках Марафонf "Заверстаю 5.0" от <i>[HTML Academy](https://htmlacademy.ru/study)</i>.
+Резиновая вёрстка, HTML5, CSS3.
